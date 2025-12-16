@@ -1,0 +1,14 @@
+[
+    {
+        "action": "executed",
+        "process": 1,
+        "work": [
+            5,
+            3,
+            2
+        ]
+    },
+    {
+        "action": "deadlock"
+    }
+]

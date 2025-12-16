@@ -1,0 +1,4 @@
+# No external libraries required for now
+# Only Python 3.x
+matplotlib
+numpy

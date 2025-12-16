@@ -1,0 +1,15 @@
+{
+  "ram_size": 12,
+  "frame_size": 4,
+  "algorithm": "FIFO",
+  "processes": [
+    {
+      "pid": 0,
+      "pages": [ 0, 1, 2, 3, 0, 1, 4, 0, 1, 2, 3, 4 ]
+    },
+    {
+      "pid": 1,
+      "pages": [ 0, 2, 3, 2, 1, 0, 1, 2, 3, 0 ]
+    }
+  ]
+}

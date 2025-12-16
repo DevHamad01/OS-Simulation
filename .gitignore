@@ -1,0 +1,21 @@
+.vs/
+*.ipch
+*.VC.db
+*.suo
+# Visual Studio
+.vs/
+.vscode/
+x64/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Build files
+*.exe
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db

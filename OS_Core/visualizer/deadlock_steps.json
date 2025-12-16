@@ -1,0 +1,51 @@
+[
+    {
+        "action": "executed",
+        "can_run": true,
+        "process": 0,
+        "work_after": [
+            4,
+            0,
+            0
+        ],
+        "work_before": [
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "action": "executed",
+        "can_run": true,
+        "process": 1,
+        "work_after": [
+            6,
+            0,
+            1
+        ],
+        "work_before": [
+            4,
+            0,
+            0
+        ]
+    },
+    {
+        "action": "executed",
+        "can_run": true,
+        "process": 2,
+        "work_after": [
+            8,
+            0,
+            1
+        ],
+        "work_before": [
+            6,
+            0,
+            1
+        ]
+    },
+    {
+        "deadlock_detected": false,
+        "deadlocked_processes": []
+    }
+]
