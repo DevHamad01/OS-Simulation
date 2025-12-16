@@ -1,0 +1,247 @@
+{
+    "steps": [
+        {
+            "frames": [
+                0,
+                -1,
+                -1,
+                -1
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 0
+        },
+        {
+            "frames": [
+                0,
+                1,
+                -1,
+                -1
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 1
+        },
+        {
+            "frames": [
+                0,
+                1,
+                2,
+                -1
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 2
+        },
+        {
+            "frames": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 3
+        },
+        {
+            "frames": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "page_fault": false,
+            "process": 0,
+            "reference": 0
+        },
+        {
+            "frames": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "page_fault": false,
+            "process": 0,
+            "reference": 1
+        },
+        {
+            "frames": [
+                4,
+                1,
+                2,
+                3
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 4
+        },
+        {
+            "frames": [
+                4,
+                0,
+                2,
+                3
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 0
+        },
+        {
+            "frames": [
+                4,
+                0,
+                1,
+                3
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 1
+        },
+        {
+            "frames": [
+                4,
+                0,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 2
+        },
+        {
+            "frames": [
+                3,
+                0,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 3
+        },
+        {
+            "frames": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 0,
+            "reference": 4
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 1,
+            "reference": 0
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": false,
+            "process": 1,
+            "reference": 2
+        },
+        {
+            "frames": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 1,
+            "reference": 3
+        },
+        {
+            "frames": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "page_fault": false,
+            "process": 1,
+            "reference": 2
+        },
+        {
+            "frames": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "page_fault": false,
+            "process": 1,
+            "reference": 1
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 1,
+            "reference": 0
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": false,
+            "process": 1,
+            "reference": 1
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": false,
+            "process": 1,
+            "reference": 2
+        },
+        {
+            "frames": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 1,
+            "reference": 3
+        },
+        {
+            "frames": [
+                0,
+                4,
+                1,
+                2
+            ],
+            "page_fault": true,
+            "process": 1,
+            "reference": 0
+        }
+    ],
+    "total_page_faults": 15
+}
